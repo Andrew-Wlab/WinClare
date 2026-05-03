@@ -1,0 +1,1 @@
+# WinClare — Free Windows Optimizer
