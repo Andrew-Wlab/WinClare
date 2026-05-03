@@ -39,7 +39,7 @@
 
 ## 🖥️ Скриншоты
 
-*(скриншоты будут добавлены)*
+![WinClare Dashboard](assets/screenshot.png)
 
 ---
 
